@@ -54,7 +54,7 @@ The complete wheat leaf disease dataset contains **4000+ images** and is hosted 
 
 ## Download Dataset from Kaggle
 
-https://www.kaggle.com/your-username/your-dataset-name
+https://www.kaggle.com/datasets/pesaridivya/wheat-disease
 
 ## Dataset Classes
 
