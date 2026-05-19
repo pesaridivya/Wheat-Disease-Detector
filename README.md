@@ -48,6 +48,20 @@ The project uses **PyTorch**, **MobileNetV3**, and **Flask** to provide fast and
 | CNN + Logistic Regression | **96.51%** |
 
 ---
+#  Dataset
+
+The complete wheat leaf disease dataset contains **4000+ images** and is hosted on **Kaggle** .
+
+## Download Dataset from Kaggle
+
+https://www.kaggle.com/your-username/your-dataset-name
+
+## Dataset Classes
+
+- Black Rust
+- Brown Rust
+- Healthy Wheat
+- Yellow Rust
 # Installation
 
 Follow these steps to run the Wheat Disease Detector project locally.
